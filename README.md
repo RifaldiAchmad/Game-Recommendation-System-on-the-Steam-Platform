@@ -1,5 +1,3 @@
-# Laporan Proyek Machine Learning - Rifaldi Achmad Faisal
-
 ## Project Overview
 
 Video game digital distribution platform seperti Steam memiliki katalog yang sangat luas sehingga membuat pengguna sering kesulitan menemukan game yang sesuai dengan minat dan kebiasaan bermain mereka.
